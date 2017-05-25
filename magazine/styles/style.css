@@ -1,0 +1,156 @@
+/**{
+
+	border: 1px solid red !important;
+}*/
+html, body{
+
+	margin: 0;
+	padding: 0;
+	width: 100%;
+
+}
+.wrapper{
+
+	width: 75%;
+	margin: 0 auto;
+
+
+}
+header{
+
+	height: 100px;
+
+}
+.logo{
+
+	height: 100px;
+	width: 200px;
+	background-color: gray;
+	display:inline-block;
+
+
+}
+nav{
+
+	height: 30px;
+	width: 75%;
+	float:right;
+	margin-top: 20px;
+
+}
+.links{
+
+	height: 45px;
+	width: 15%;
+	background-color: gray;
+	float:right;
+	margin-left:10px;
+
+
+}
+.main{
+
+	height: 600px;
+	
+
+	clear:both;
+	margin-top: 18px;
+
+
+}
+.left_colm{
+
+	height: 600px;
+	width: 18%;
+	float: left;
+	background-color: gray;
+}
+.right_colm{
+
+	width: 80%;
+
+	height: 600px;
+	float:right;
+}
+.top{
+	height: 100px;
+	background-color: gray;
+
+
+}
+.middle{
+	height: 370px;
+	clear: both;
+	margin: 15px 0px;
+	
+
+}
+.middle_left{
+
+	height: 370px;
+	width: 74.1%;
+	float:left;
+	background-color: gray;
+
+}
+.middle_right{
+
+	height: 370px;
+	width: 23.05%;
+	float: right;
+	background-color: gray;
+}
+.section{
+	clear: both;
+	height: 90px;
+	
+}
+.box1{
+
+	height: 100px;
+	width: 23.05%;
+	float: left;
+	margin-right: 18px;
+	background-color: gray;
+	
+
+}
+.box2{
+
+	height: 100px;
+	width: 23.05%;
+	float: left;
+	margin-right: 18px;
+	background-color: gray;
+
+	
+
+}
+.box3{
+
+	height: 100px;
+	width: 23.05%;
+	float: left;
+	margin-right: 18px;
+	background-color: gray;
+	
+
+}
+.box4{
+
+	height: 100px;
+	width: 23.05%;
+	float: right;
+	background-color: gray;
+
+	
+
+}
+footer{
+
+	height: 100px;
+	clear:both;
+	margin-top: 15px;
+	background-color: gray;
+
+}

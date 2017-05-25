@@ -1,0 +1,59 @@
+/**{
+
+	border: 1px solid red !important;
+}*/
+
+html, body{
+
+	margin: 0;
+	padding: 0;
+	width: 100%;
+
+}
+.wrapper{
+
+	width: 75%;
+	margin: 0 auto;
+
+
+}
+header{
+
+	height: 100px;
+	background-color: gray;
+
+
+}
+.main{
+
+	height: 300px;
+	margin: 15px 0px;
+}
+.left{
+	height: 300px;
+	width: 25.7%;
+	float: left;
+	background-color: gray;
+}
+.center{
+
+	height: 300px;
+	width: 45.9%;
+	float: left;
+	margin:0px 15px;
+	background-color: gray;
+}
+.right{
+
+	height: 300px;
+	width: 25%;
+	float: right;
+	background-color: gray;
+}
+footer{
+
+	height: 100px;
+	clear:both;
+	background-color: gray;
+
+}
